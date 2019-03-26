@@ -1,6 +1,6 @@
 print ("Podaj x")
 x=int(input())
-
+#zmiana linijki
 if x > 0 and x<50:
 	print ("X jest mniejszy od 50")
 elif x >=50 and x < 500:
